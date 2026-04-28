@@ -20,7 +20,7 @@ export default function HomePage() {
                         Browse Jobs
                     </a>
                     <a
-                        href="https://jobtracker-client.onrender.com"
+                        href="#"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="border border-gray-300 hover:bg-gray-50 text-gray-700 font-semibold px-8 py-3 rounded-xl transition-colors"
