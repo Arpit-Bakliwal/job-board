@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import StatusBadge from '../components/StatusBadge'
-import JobSearch from '../components/JobSearch'
+import StatusBadge from '@/components/StatusBadge'
+import JobSearch from '@/components/JobSearch'
 
 export const revalidate = 60
 
